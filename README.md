@@ -20,8 +20,7 @@
 - [Interpretation](#interpretation)
 - [Conclusion](#conclusion)
 - [Recommendations](#recommendations)
-- [References](#references)
-
+ 
 ---
 
 ## Project Overview
